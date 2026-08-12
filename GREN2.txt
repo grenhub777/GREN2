@@ -332,8 +332,8 @@ local HttpService = game:GetService("HttpService")
 -- Playlist with your Catbox URLs
 M.bgmList = {
     {name="Song 1", url="https://files.catbox.moe/2a7jyx.mp3", file="AceDuelsIntroSong_2.mp3"},
-    {name="Song 2", url="https://files.catbox.moe/rcgr9f.mp3", file="AceDuelsIntroSong_3.mp3"},
-    {name="Song 3", url="https://files.catbox.moe/iknfuh.mp3", file="AceDuelsIntroSong_4.mp3"},
+    {name="Song 2", url="https://files.catbox.moe/hpww7x.mp3", file="AceDuelsIntroSong_3.mp3"},
+    {name="Song 3", url="https://files.catbox.moe/b923r1.mp3", file="AceDuelsIntroSong_4.mp3"},
     {name="Song 4", url="https://files.catbox.moe/6eigoh.mp3", file="AceDuelsIntroSong_5.mp3"},
     {name="Song 5", url="https://files.catbox.moe/dvjtjk.mp3", file="AceDuelsIntroSong_6.mp3"},
     {name="Song 6", url="https://files.catbox.moe/iyw1cb.mp3", file="AceDuelsIntroSong_7.mp3"},
