@@ -1,1 +1,1 @@
-
+loadstring(game:HttpGet("https://raw.githubusercontent.com/superzacko514-cpu/gren-duels2/main/Gren%20duels"))()
